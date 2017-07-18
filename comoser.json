@@ -1,0 +1,13 @@
+{
+    "name": "typo3-ter/foundation-grids",
+    "description": "The foundation-grids package",
+    "type": "typo3-cms-extension",
+    "config": {
+      "preferred-install": "dist"
+    },
+    "license": "GPL-2.0+",
+    "require": {
+        "php": ">=7.0.0",
+        "typo3/cms": ">=7.6.13, <=7.6.99|^8.4.1"
+    }
+}
