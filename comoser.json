@@ -2,6 +2,7 @@
     "name": "pprossi/foundation-grids",
     "type": "typo3-cms-extension",
     "description": "The foundation-grids package Fork",
+    "version" : "1.1.1",
     "license": "GPL-2.0+",
     "require": {
         "php": ">=7.0.0",
